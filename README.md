@@ -20,9 +20,10 @@ From an architectural perspective, efficiency was a primary consideration. Funct
 
 In terms of ownership and future direction, this project reflects a high level of independence and responsibility. I designed and implemented both the algorithmic backend (including score calculations, leader handling, team allocation, and swap optimization) and the interactive GUI. Future improvements could include integrating artificial intelligence techniques to generate smarter swap suggestions, implementing undo/redo functionality for swaps, exporting allocated teams back into a CSV file, and adding charts or animations to further improve usability and insight. Time constraints prevented these features from being fully realized, but they represent clear and valuable directions for further development.
 
-Overall, the Student Team Allocator is a complete, efficient, and creative solution that combines algorithmic sophistication with practical usability. It demonstrates strong software engineering principles and provides a meaningful tool that educators can rely on for fair and transparent team allocation. This was my final project for CS50!
+Overall, the Student Team Allocator is a complete, efficient, and creative solution that combines algorithmic sophistication with practical usability. It demonstrates strong software engineering principles and provides a meaningful tool that educators can rely on for fair and transparent team allocation.
 
 #### References:
 
 Generative AI Acknowledgement:
 The use of ChatGPT was limited to generating a sample CSV dataset used for testing and demonstration purposes. This sample data file is included in the project folder and was not used in the implementation of the allocation algorithms themselves.
+
